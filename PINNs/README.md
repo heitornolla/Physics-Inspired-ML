@@ -1,6 +1,6 @@
 # Physics Informed Neural Networks
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/heitornolla/Physics-Inspired-ML/blob/main/PINNs/ball_trajectory/notebook/pinn_for_ball_trajectory.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/heitornolla/Physics-Inspired-ML/blob/main/PINNs/notebook/pinn_for_ball_trajectory.ipynb)
 
 This code is written based on VizuaraAI's PINN tutorial. The goal of this code is to model the trajectory of a ball with a Nueral Network and, mainly, to understand how PINNs work.
 
